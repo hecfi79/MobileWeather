@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello Ruslan</string>
+    <string name="weather">Weather in your city</string>
+    <string name="getweather">Get Weather</string>
+    <string name="empty">Input weather in your city</string>>
+</resources>
